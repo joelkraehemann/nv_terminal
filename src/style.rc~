@@ -1,0 +1,7 @@
+terminal-style = {
+      bg = white
+      fg = black
+      font = "Nimbus Mono 12"
+}
+
+widget_class "VteTerminal" style "terminal-style"
